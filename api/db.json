@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Pavel",
+      "age": "27",
+      "email": "hhh@mail.com",
+      "id": 1
+    },
+    {
+      "name": "Oleg",
+      "age": "53",
+      "email": "рррр@mail.com",
+      "id": 2
+    },
+    {
+      "name": "jjj",
+      "age": "55",
+      "email": "hhh@vv.n",
+      "id": 3
+    },
+    {
+      "name": "jjj",
+      "age": "5",
+      "email": "hhh@vv.n",
+      "id": 4
+    },
+    {
+      "name": "jjj",
+      "age": "4",
+      "email": "hhh@vv.n",
+      "id": 5
+    },
+    {
+      "name": "jjj",
+      "age": "5",
+      "email": "hhh@vv.n",
+      "id": 6
+    },
+    {
+      "name": "ree",
+      "age": "3",
+      "email": "hhh@vv.n",
+      "id": 7
+    }
+  ]
+}
